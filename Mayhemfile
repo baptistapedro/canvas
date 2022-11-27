@@ -1,0 +1,5 @@
+project: canvas
+target: canvas
+
+cmds:
+  - cmd: /fontinfo info @@
